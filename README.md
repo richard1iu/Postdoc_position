@@ -2,11 +2,11 @@
 Provide the info about postdoc in 2022
 
 ## Bioinformatics Researcher
-**Pre:** Full working rights within Australia
-**DDL** 25/11/22
-**Location:** Camperdown, Sydney NSW
-**Institution:** Melanoma Institute Australia
-[link](https://www.seek.com.au/job/59005873?type=standout#sol=4e8bb794844c4f6c05d9472ce6e2af457d8fa87f)
+**Pre:** Full working rights within Australia  
+**DDL** 25/11/22  
+**Location:** Camperdown, Sydney NSW  
+**Institution:** Melanoma Institute Australia  
+[link](https://www.seek.com.au/job/59005873?type=standout#sol=4e8bb794844c4f6c05d9472ce6e2af457d8fa87f)  
 ### Responsibilities:
 - Identify a research program that can be answered using the resources of the group with a focus on discovery and validation of diagnostic tools.
 
