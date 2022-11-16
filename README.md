@@ -3,7 +3,7 @@ Provide the info about postdoc in 2022
 
 ## Bioinformatics Researcher
 - **Pre:** Full working rights within Australia  
-- **DDL** 25/11/22  
+- **DDL:** 25/11/22  
 - **Location:** Camperdown, Sydney NSW  
 - **Institution:** Melanoma Institute Australia  
 - [link](https://www.seek.com.au/job/59005873?type=standout#sol=4e8bb794844c4f6c05d9472ce6e2af457d8fa87f)  
@@ -28,7 +28,7 @@ Provide the info about postdoc in 2022
 
 ### Key Selection Criteria:
 
-- PhD. in  `relevant discipline` such as Bioinformatics, Computational Biology or a closely related field.
+- PhD. in  relevant discipline such as ` Bioinformatics, Computational Biology or a closely related field.`
 
 - Experience processing and analysing `multi-omics datasets`, particularly whole-genome/whole-exome/targeted-panel DNA sequencing as well as RNA sequencing.
 
